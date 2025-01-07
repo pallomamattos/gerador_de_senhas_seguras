@@ -15,7 +15,7 @@ HTML: Estrutura da aplicação.
 CSS: Estilização e design responsivo.
 JavaScript: Lógica de geração das senhas.
 
-@@@ 🖥️ Como Usar
+### 🖥️ Como Usar
 Clone este repositório:
 bash
 Copiar código
